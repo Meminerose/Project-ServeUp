@@ -17,7 +17,7 @@ Aplikasi manajemen operasional restoran Hashirama Ramen dengan fitur penjadwalan
 
 ## 🛠️ Teknologi yang Digunakan
 - **Java** (GUI menggunakan Swing)
-- **MySQL Database** (dihosting melalui Railway)
+- **MySQL Database** (local database)
 - **JDBC** (untuk koneksi database)
 - **NetBeans IDE**
 
